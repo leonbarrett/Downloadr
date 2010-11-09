@@ -1,0 +1,54 @@
+a.download_link{
+	font-family: "Arial" !important;
+	font-weight: bold;
+	background-color: #EDEDED;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F4F4F4), to(#D4D4D4));
+	background-image: -moz-linear-gradient(19% 75% 90deg,#F4F4F4, #d4d4d4);
+	padding: 3px 5px !important;
+	color: #333333 !important;
+	font-size: 11px !important;
+	text-decoration: none !important;
+	border: 1px solid #D4D4D4 !important;
+	-moz-border-radius: 5px !important;
+	-webkit-border-radius: 5px !important;
+}
+
+a:hover.download_link{
+	border: 1px solid #2A65A0 !important;
+	background-color: #3072B3;
+	background-image: none;
+	color: #FFFFFF !important;
+}
+
+#facebox .body{
+	font-family: "Arial";
+	padding: 0px;
+	
+}
+
+#facebox .body p{
+	padding: 10px;
+	font-size: 14px;
+	width: 400px;
+	line-height: 20px;
+	color: #333333;
+}
+
+#facebox .body p a, #facebox .body p a:visited{
+	color: #333333;
+	text-decoration: underline;
+}
+
+#facebox .body p a:hover{
+	color: #2A65A0;
+	text-decoration: underline;
+}
+
+#facebox .body h2{
+	background-color: #e3e3e3;
+	margin: 0;
+	padding: 10px;
+	font-size: 20px;
+	font-family: "Arial";
+	border:none !important;
+}
